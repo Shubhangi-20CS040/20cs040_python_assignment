@@ -58,7 +58,7 @@ all lowercase letters to uppercase letters and vice versa.
 Sample Input: HackerRank.com presents "Pythonist 2".
 Sample Output: hACKERrANK.COM PRESENTS "pYTHONIST 2".
 
-#practical_6
+# practical_6
 You are given n words. Some words may repeat. For each word, output its
 number of occurrences. The output order should correspond with the input order
 of appearance of the word. See the sample input/output for clarification.
@@ -75,7 +75,7 @@ Explanation: There are 3 distinct words. Here, "bcdef" appears twice in the inpu
 at the first and last positions. The other words appear once each. The order of the
 first appearances are "bcdef", "abcdefg" and "bcde" which corresponds to the
 
-#practical_7
+# practical_7
 Lapindrome is defined as a string which when split in the middle, gives two
 halves having the same characters and same frequency of each character. If there
 1,2
@@ -96,7 +96,7 @@ xyzxy
 abbaab
 ababc
 
-practical_8
+# practical_8
 Implement following operation on Portable Document Format (PDF)
 1. Extracting text from PDF
 2. Rotating PDF pages
@@ -105,12 +105,12 @@ Implement following operation on Portable Document Format (PDF)
 5. Adding watermark to PDF pages
 6. Encrypting and decrypting PDF files
 
-practical_9
+# practical_9
 Creating and sending emails using python
 1. Sending a Plain-Text Email
 2. Sending Fancy Emails
 3. Sending Multiple Personalized Emails
 4. Send HTML Email with Attachment
 
-practical_10
+# practical_10
 Implement CRUD operation using Django Framework.
